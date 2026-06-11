@@ -696,7 +696,7 @@ app/lib/secrets/kakao_keys.dart
 
 ## 28. 참고 자료
 
-* AI Hub. 반려동물 피부질환 데이터. 데이터셋 번호 561.
+* [AI Hub. 반려동물 피부질환 데이터. 데이터셋 번호 561.](https://aihub.or.kr/aihubdata/data/view.do?srchOptnCnd=OPTNCND001&currMenu=115&topMenu=100&searchKeyword=%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC+&aihubDataSe=data&dataSetSn=561)
 * PyTorch Documentation
 * TorchVision Documentation
 * Scikit-Learn Documentation
