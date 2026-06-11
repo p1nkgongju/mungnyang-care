@@ -7,8 +7,6 @@
 .buildlog/
 .history
 
-
-
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
@@ -117,3 +115,36 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+
+# Project dataset
+cropped_dataset_more/
+cropped_preprocessed_dataset/
+dataset/
+
+# Model files
+*.pth
+*.pt
+*.onnx
+
+# Secret files
+.env
+*.env
+app/lib/firebase_options.dart
+app/android/app/google-services.json
+app/lib/config/kakao_keys.dart
+app/lib/secrets/kakao_keys.dart
+
+# Python cache / virtual environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
