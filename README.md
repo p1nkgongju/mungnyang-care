@@ -563,7 +563,7 @@ SMTP_PORT=587
 server/models/pet_skin_model.pth
 ```
 
-모델 다운로드 링크:
+모델 다운로드 링크: https://drive.google.com/drive/u/0/folders/1QEPzDfpYFefw45wC4aAah2PuUoXj0wgZ
 
 ```text
 Google Drive 또는 OneDrive 링크 입력
