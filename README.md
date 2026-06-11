@@ -82,6 +82,9 @@ mungnyang-care/
 │   └── models/
 │       └── .gitkeep
 │
+├── notebooks/
+│   └── model_training.ipynb
+│
 ├── docs/
 │   ├── flowchart.png
 │   ├── app_home.png
